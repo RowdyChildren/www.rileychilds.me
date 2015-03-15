@@ -468,6 +468,7 @@ html {
 /* - Brand - */
 .brand img {
   max-height: 120px;
+   border-radius:50% 50% 50% 50%; 
 }
 /* - Blog title and description - */
 .blog-title {
@@ -3866,18 +3867,22 @@ a#slide:hover{
     }
 
 a#slide:after{
-    content:"F"
+   font-family: FontAwesome;
+   content: "\f0c9";
+    
     }
 
 a#slide.slide:after{
+
     position:absolute;
-    content:"X";
+      font-family: FontAwesome;
+   content: "\f00d";
     top:11px;
     left:50%;
     width:40px;
     height:40px;
     margin:0 0 0 -20px;
-    font:18px "icon" !important;
+ font: 18px  !important;
     vertical-align:middle
     }
 

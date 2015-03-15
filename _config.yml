@@ -1,9 +1,9 @@
 title:            Riley Childs
 description:      "Theatrical Electrican, Programer, Civic Hacker, IT Pro"
-logo:             http://2.gravatar.com/avatar/cc5909ba5ad6e875ce44fd9a8c081de9?size=400px
+logo:            riley.jpeg
 disqus_shortname: rcme
 # Assign a default image for your site's header and footer
-default_bg:      Lyric-Theater-066.jpg
+default_bg:     lightboard.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
@@ -18,26 +18,25 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:       		   /hmfaysal-omega-theme
+url:       		  
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Riley 
+  avatar:         https://2.gravatar.com/avatar/cc5909ba5ad6e875ce44fd9a8c081de9?size=400px
+  email:          me@rileychilds.me
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal
-  stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
-  linkedin:       https://www.linkedin.com/pub/firstname-lastname/12/345/678
+  description:    
+  twitter:        rowdychildren
+  facebook:       
+  github:         rowdychildren
+  stackexchange:  
+  linkedin:       https://www.linkedin.com/in/rowdychildren
   instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    https://google.com/+rileychild
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-39365944-7
@@ -52,14 +51,10 @@ links:
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> Documentation
-    url: /documentation
   - title: Categories
     url: /categories
   - title: Tags
     url: /tags
-  - title: Faysal who?
-    url: /hossain-mohd-faysal
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
