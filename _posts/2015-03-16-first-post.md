@@ -1,9 +1,0 @@
----
-layout: post
-title: This is my first post!
-description: "First Post"
-modified: 2015-03-16
-tags: [riley, first, post, college]
----
-
-This is my fist blog post using jekyll! I look forward to creating even more content for you to read!
