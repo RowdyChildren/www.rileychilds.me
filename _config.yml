@@ -1,5 +1,5 @@
 title:            Riley Childs
-description:      "Theatrical Electrican, Programmer, Civic Hacker, IT Pro"
+description:      "Systems Center Configuration Manager Engineer"
 logo:            riley.jpeg
 disqus_shortname: rcme
 # Assign a default image for your site's header and footer
@@ -26,7 +26,7 @@ owner:
   avatar:         riley.jpeg
   email:          me@rileychilds.me
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    "Riley Childs works as an IT Professional and as a Theatrical Electrican. He has experince managing networks of all kinds and experince working on large theatrical projects"
+  description:    "Riley Childs is a SCCM Engineer and Network Engineer with several years of experience"
   twitter:        rowdychildren
   facebook:       
   github:         rowdychildren
